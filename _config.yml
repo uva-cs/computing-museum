@@ -1,0 +1,15 @@
+title: Computing Museum 
+description: >
+  University of Virginia Computer Science - Computing Museum 
+copyright: UVA CS
+baseurl: "/"
+email: "cs-office@virginia.edu"
+remote-theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme
+search:
+    button: true
+callouts:
+    interesting:
+        title: Interesting
+        color: purple
